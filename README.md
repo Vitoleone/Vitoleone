@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Unity, C# and their principles**
 
-- 📫 How to reach me **berkay4.askin@hotmail.com**
+- 📫 You can reach me on **berkay4.askin@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
