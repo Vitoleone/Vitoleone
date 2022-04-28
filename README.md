@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Noyan Berkay Aşkın</h1>
 <h3 align="center">Unity Game Developer Candidate</h3>
 
-- 🔭 I’m currently working on [Square Survivors](https://github.com/Vitoleone/Square-Survivors)
+- 🔭 I’m currently working on [RunningGame](https://github.com/Vitoleone/RunningGame)
 
 - 🌱 I’m currently learning **Unity, C# and their principles**
 
